@@ -1,0 +1,58 @@
+/* Custom CSS for elements that need specific styling */
+.list-square {
+    list-style-type: square;
+}
+
+/* Font size equivalents (Tailwind uses rem units) */
+.text-4xl {
+    font-size: 2.25rem;
+    /* approximately 36px - close to 18pt */
+}
+
+.text-3xl {
+    font-size: 1.75rem;
+    /* ~14pt */
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+    /* ~12pt */
+}
+
+.text-xl {
+    font-size: 1.25rem;
+    /* approximately 20px - close to 12pt */
+}
+
+.textarea-custom {
+    width: 648px;
+    height: 100px;
+}
+
+.textarea-custom-sm {
+    width: 648px;
+    height: 20px;
+}
+
+.textarea-custom-md {
+    width: 648px;
+    height: 60px;
+}
+
+.textarea-custom-lg {
+    width: 648px;
+    height: 80px;
+}
+
+.textarea-custom-xl {
+    width: 648px;
+    height: 140px;
+}
+
+.clear-left {
+    clear: left;
+}
+
+.clear-both {
+    clear: both;
+}
